@@ -11,7 +11,7 @@
 
 - On Windows, navigate to PC Settings > Devices > Bluetooth & Other Devices
 
-- Press on the + button labeled "Add Bluetooth or other Device" 
+- Click on the + button labeled "Add Bluetooth or other Device" 
 - Select Bluetooth & then pick the device named "Steelseries Stratus+"
 
 ![S2](https://user-images.githubusercontent.com/67967964/192275095-21c182dd-8ef5-4a5d-b059-810e91018831.jpg)
