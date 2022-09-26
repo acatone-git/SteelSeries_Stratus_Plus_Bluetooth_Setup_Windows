@@ -29,7 +29,8 @@
 
 - In XOutput click on the "Add Controller" Button & then on the "Edit" Button
 - In the new window, scroll at the bottom of the available bindings and click on "Configure All"
-- Once the mapping is complete return to the main window & click on "Start"
+- Follow the application instructions to fully map the controller. 
+- Once the mapping is complete, return to the main window & click on "Start"
 - The Steelseries Stratus+ will now work as a generic XBOX Controller.
 
 # Step 5 (Optional)
