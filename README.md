@@ -31,3 +31,8 @@
 - In the new window, scroll at the bottom of the available bindings and click on "Configure All"
 - Once the mapping is complete return to the main window & click on "Start"
 - The Steelseries Stratus+ will now work as a generic XBOX Controller.
+
+# Step 5 (Optional)
+
+- In XOutput, navigate to Tool > Setting
+- Check the two boxes labelled "Run at Windows Startup" & "Close application to tray bay"
