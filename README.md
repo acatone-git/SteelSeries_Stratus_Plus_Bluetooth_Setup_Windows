@@ -25,7 +25,7 @@
 
 - Download & Run [XOutput](https://github.com/csutorasa/XOutput/releases)
 
-![XOutput](https://user-images.githubusercontent.com/67967964/192277949-614c47bf-3613-4b0c-8f1c-4420f8ca121c.png)
+![XOutput](https://user-images.githubusercontent.com/67967964/192279867-444f07e1-0e85-4dc5-8b4d-1c90c01a3735.png)
 
 - In XOutput click on the "Add Controller" Button & then on the "Edit" Button
 - In the new window, scroll at the bottom of the available bindings and click on "Configure All"
