@@ -19,7 +19,7 @@
 ## Step 3
 
 - Download & Install [ViGEm](https://github.com/ViGEm/ViGEmBus/releases) on the PC
-- Restart the PC
+- Restart the PC **[VERY IMPORTANT]**
 
 ## Step 4
 
