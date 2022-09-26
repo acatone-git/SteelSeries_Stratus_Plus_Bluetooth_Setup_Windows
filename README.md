@@ -24,16 +24,16 @@
 ## Step 4
 
 - Download & Run [XOutput](https://github.com/csutorasa/XOutput/releases)
+- In XOutput, click on the "Add Controller" Button & then on the "Edit" Button
 
 ![S3](https://user-images.githubusercontent.com/67967964/192280538-4b1e114c-cc8d-4627-b295-72a8bf5a3ec4.jpg)
 
-- In XOutput click on the "Add Controller" Button & then on the "Edit" Button
-- In the new window, scroll at the bottom of the available bindings and click on "Configure All"
-- Follow the application instructions to fully map the controller. 
-- Once the mapping is complete, return to the main window & click on "Start"
-- The Steelseries Stratus+ will now work as a generic XBOX Controller.
+- In the new window, scroll at the bottom of the available bindings & click on "Configure All"
+- Follow the application instructions to fully map the controller
+- Once the mapping is complete, return to the main window & click on the "Start" button
+- The Steelseries Stratus+ will now work as a generic XBOX Controller (w/ Digital Triggers)
 
 # Step 5 (Optional)
 
-- In XOutput, navigate to Tool > Setting
+- In XOutput, Navigate to Tool > Setting
 - Check the two boxes labelled "Run at Windows Startup" & "Close application to tray bay"
