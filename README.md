@@ -24,7 +24,7 @@
 ## Step 4
 
 - Download & Run [XOutput](https://github.com/csutorasa/XOutput/releases) on the PC
-- In XOutput, click on the "Add Controller" Button & then on the "Edit" Button
+- In XOutput, under "Game Controllers" click on the "Add Controller" Button & then on the "Edit" Button
 
 ![S3](https://user-images.githubusercontent.com/67967964/192280538-4b1e114c-cc8d-4627-b295-72a8bf5a3ec4.jpg)
 
