@@ -5,7 +5,7 @@
 - Turn on the controller with the Home Button (A)
 - Press & hold the Link Button (B) until the LEDs on the controller (C) start flashing
 
-![Button](https://user-images.githubusercontent.com/67967964/192272949-ac8fe49f-55e0-4d49-a5e8-8cbfbec80d31.jpg)
+![S1](https://user-images.githubusercontent.com/67967964/192289417-9c162b92-739e-4dc6-98a6-79f80450e9e1.jpg)
 
 ## Step 2
 
