@@ -1,4 +1,4 @@
-# SteelSeries Stratus Plus - Bluetooth on Windows
+# SteelSeries Stratus Plus - Bluetooth Setup (Windows)
 
 ## Step 1
 
