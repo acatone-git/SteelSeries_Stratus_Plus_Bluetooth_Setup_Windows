@@ -39,3 +39,6 @@
 
 - In XOutput, Navigate to Tool > Setting
 - Tick the two boxes labelled "Run at Windows Startup" & "Close application to tray bay"
+
+![S5](https://user-images.githubusercontent.com/67967964/192297681-13f92119-cd77-4819-9886-ee5c022a6acf.jpg)
+
