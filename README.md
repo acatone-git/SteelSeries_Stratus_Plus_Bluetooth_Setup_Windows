@@ -13,3 +13,15 @@
 - Select Bluetooth & then pick the device named "Steelseries Stratus+"
 
 ![S2](https://user-images.githubusercontent.com/67967964/192275095-21c182dd-8ef5-4a5d-b059-810e91018831.jpg)
+
+- Download & Install [ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
+- Restart the PC
+
+- Download & Run [XOutput](https://github.com/csutorasa/XOutput/releases)
+
+![XOutput](https://user-images.githubusercontent.com/67967964/192277949-614c47bf-3613-4b0c-8f1c-4420f8ca121c.png)
+
+- In XOutput click on the "Add Controller" Button & then on the "Edit" Button
+- In the new window, scroll at the bottom of the available bindings and click on "Configure All"
+- Once the mapping is complete return to the main window & click on "Start"
+- The Steelseries Stratus+ will now work as a generic XBOX Controller.
