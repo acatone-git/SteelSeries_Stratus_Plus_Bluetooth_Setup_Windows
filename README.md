@@ -30,7 +30,7 @@
 
 - In the new window, scroll at the bottom of the available bindings & click on "Configure All"
 - Follow the application instructions to fully map the controller as desired
-- Once the mapping is complete, return to the main window & click on "Save Configuration"
+- Once the mapping is complete, return to the main window & click on "Save Configuration" button at the bottom
 - The Steelseries Stratus+ will work as a generic XBOX Controller (w/ Digital Triggers) once the "Start" button is pressed
 
 # Step 5 (Optional)
